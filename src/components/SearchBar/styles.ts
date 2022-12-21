@@ -16,7 +16,7 @@ export const StyledSearchContainer = styled.View`
 export const StyledSearchInput = styled.TextInput`
   width: 85%;
   padding: 0 5px 0 5px;
-  font-family: 'Inter';
+  font-family: 'Inter-Regular';
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
